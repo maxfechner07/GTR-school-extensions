@@ -62,5 +62,5 @@ else:
         gleichung6 = input("Gleichung 6: ")
         gleichung7 = input("Gleichung 7: ")
         print(f"Ihre Gleichungen: {gleichung1}, {gleichung2}, {gleichung3}, {gleichung4}, {gleichung5}, {gleichung6} und {gleichung7}")
-    
-    #Gleichungen loesen (Gauss-Algorythmus)
+
+    #Gleichungen loesen (Gauß-Algorithmus)
